@@ -1,0 +1,39 @@
+ [
+  {
+  "modelName": "unimelb",
+  "displayName": "unimelb",
+  "particleScaleInfo": { }
+  },
+  
+  {
+  "modelName": "globe",
+  "displayName": "globe",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "candle",
+  "displayName": "Candle",
+  "particleScaleInfo": {"flame": 0.1 }
+  },
+  {
+  "modelName": "cup",
+  "displayName": "Cup",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "vase",
+  "displayName": "Vase",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "lamp",
+  "displayName": "Lamp",
+  "particleScaleInfo": { }
+  },
+  {
+  "modelName": "chair",
+  "displayName": "Chair",
+  "particleScaleInfo": { }
+  },
+  ]
+
