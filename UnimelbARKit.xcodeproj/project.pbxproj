@@ -113,6 +113,8 @@
 		1488324A1EFC3E9C0043E0AB /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				147D76491EFC36070000FEBF /* ViewController+ObjectSelection.swift */,
+				CBFBABA81F72569B0076057A /* AlertView.swift */,
 				39C0B9581E9C6B1F003FCA0C /* Utilities.swift */,
 				148832481EFC3E520043E0AB /* ARSCNView+HitTests.swift */,
 				C46356661EF9CC480080C8D9 /* SceneExtensions.swift */,
@@ -169,7 +171,6 @@
 				3929C48D1E89EC2C00E00B60 /* ViewController.swift */,
 				CB00EF031F750BDA00F093EC /* SphereNode.swift */,
 				CBA905371F77649A00E679DC /* GeometryExtensions.swift */,
-				CB3CDFA81F679BC100D49E6E /* View Controllers */,
 				1488324B1EFC3EBF0043E0AB /* Additional View Controllers */,
 				C40DF57B1EC2330700D9D59E /* Virtual Objects */,
 				113B64D01ECA81CA0071CBD1 /* UI Elements */,
@@ -195,15 +196,6 @@
 				1137ED1E1F09BE0800F1A96E /* VirtualObjects.json */,
 			);
 			path = "Virtual Objects";
-			sourceTree = "<group>";
-		};
-		CB3CDFA81F679BC100D49E6E /* View Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				CBFBABA81F72569B0076057A /* AlertView.swift */,
-				147D76491EFC36070000FEBF /* ViewController+ObjectSelection.swift */,
-			);
-			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

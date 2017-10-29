@@ -41,21 +41,6 @@ extension SCNText{
         textNode.position = SCNVector3(position.x - 0.02 ,position.y,position.z)
         textNode.scale = SCNVector3(0.05,0.05,0.05)
         
-        /*
-        let (min, max) = textNode.boundingBox
-        
-        let dx = min.x + 0.5 * (max.x - min.x)
-        let dy = min.y + 0.5 * (max.y - min.y)
-        let dz = min.z + 0.5 * (max.z - min.z)
-        textNode.pivot = SCNMatrix4MakeTranslation(dx, dy, dz)
-        */
-        
-        
-        
-        // uncommented this ***************** October
-        //textNode.orientation = SCNQuaternion(x: position.x,y: position.y,z: position.z, w:0)
-        //textNode.constraints = [SCNBillboardConstraint()]
-        
         return textNode
     }
     
